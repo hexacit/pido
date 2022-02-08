@@ -1,0 +1,13 @@
+<svg id="home-drawer" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <g id="Rectangle_17357" data-name="Rectangle 17357" fill="none" stroke="#e9d5e8" stroke-width="2">
+    <rect width="35" height="35" rx="17.5" stroke="none"/>
+    <rect x="1" y="1" width="33" height="33" rx="16.5" fill="none"/>
+  </g>
+  <g id="Group_46613" data-name="Group 46613" transform="translate(-27 -222)">
+    <rect id="Rectangle" width="19" height="19" transform="translate(35 230)" opacity="0"/>
+    <g id="home-icon" transform="translate(35.432 231.295)">
+      <path id="Path_122325" data-name="Path 122325" d="M17.832,24.62l-2.749-2.727V18.742a1.04,1.04,0,0,0-2.079,0v1.088L10.958,17.8a2.75,2.75,0,0,0-3.781,0L.3,24.62a1.026,1.026,0,0,0,0,1.459,1.045,1.045,0,0,0,1.471,0l6.872-6.82a.617.617,0,0,1,.841,0l6.873,6.82a1.046,1.046,0,0,0,1.471,0A1.026,1.026,0,0,0,17.832,24.62Z" transform="translate(-0.001 -17.047)"/>
+      <path id="Path_122326" data-name="Path 122326" d="M75.564,127.9a.516.516,0,0,0-.724,0l-6.063,6a.505.505,0,0,0-.15.359v4.374a1.869,1.869,0,0,0,1.878,1.859h3v-4.6H76.9v4.6h3a1.869,1.869,0,0,0,1.878-1.858v-4.374a.5.5,0,0,0-.15-.359Z" transform="translate(-66.134 -124.075)"/>
+    </g>
+  </g>
+</svg>

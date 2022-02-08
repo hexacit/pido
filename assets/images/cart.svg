@@ -1,0 +1,20 @@
+<svg id="cart" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <rect id="Rectangle" width="20" height="20" transform="translate(0)" opacity="0"/>
+  <g id="shopping-cart" transform="translate(0 0.5)">
+    <g id="Group_45878" data-name="Group 45878" transform="translate(12.898 14.379)">
+      <g id="Group_45877" data-name="Group 45877">
+        <path id="Path_127732" data-name="Path 127732" d="M294.663,338.862a2.311,2.311,0,1,0,2.31,2.311A2.338,2.338,0,0,0,294.663,338.862Z" transform="translate(-292.352 -338.862)"/>
+      </g>
+    </g>
+    <g id="Group_45880" data-name="Group 45880" transform="translate(0 0)">
+      <g id="Group_45879" data-name="Group 45879">
+        <path id="Path_127733" data-name="Path 127733" d="M19.266,13.925c-.045,0-.112-.022-.18-.022H4.94l-.225-1.5a2.01,2.01,0,0,0-2-1.728H.9a.9.9,0,1,0,0,1.8H2.717a.239.239,0,0,1,.225.2L4.334,22.14a2.462,2.462,0,0,0,2.425,2.087H16.1a2.5,2.5,0,0,0,2.425-1.975l1.46-7.295A.887.887,0,0,0,19.266,13.925Z" transform="translate(0 -10.67)"/>
+      </g>
+    </g>
+    <g id="Group_45882" data-name="Group 45882" transform="translate(4.886 14.379)">
+      <g id="Group_45881" data-name="Group 45881" transform="translate(0)">
+        <path id="Path_127734" data-name="Path 127734" d="M115.582,341.061a2.3,2.3,0,0,0-2.288-2.2,2.324,2.324,0,0,0-2.222,2.4,2.277,2.277,0,0,0,2.266,2.2h.044A2.305,2.305,0,0,0,115.582,341.061Z" transform="translate(-111.07 -338.862)"/>
+      </g>
+    </g>
+  </g>
+</svg>

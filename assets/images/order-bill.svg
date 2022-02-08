@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="order-bill" transform="translate(-288 -55)">
+    <g id="Rectangle_17342" data-name="Rectangle 17342" transform="translate(288 55)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="20" height="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="19" height="19" fill="none"/>
+    </g>
+    <g id="invoice" transform="translate(233.261 55)">
+      <g id="Group_46667" data-name="Group 46667" transform="translate(56.739)">
+        <g id="Group_46666" data-name="Group 46666">
+          <path id="Path_134243" data-name="Path 134243" d="M71.75,0H63.221V5.63a.684.684,0,0,1-.694.675H56.741V19.036a.978.978,0,0,0,.991.964H71.75a.978.978,0,0,0,.991-.964V.964A.978.978,0,0,0,71.75,0Zm-3.9,16.006H62.2a.675.675,0,1,1,0-1.35h5.647a.675.675,0,1,1,0,1.35Zm0-3.174H62.2a.675.675,0,1,1,0-1.35h5.647a.675.675,0,1,1,0,1.35Zm0-3.174H62.2a.675.675,0,1,1,0-1.35h5.647a.675.675,0,1,1,0,1.35Z" transform="translate(-56.741)"/>
+        </g>
+      </g>
+      <g id="Group_46669" data-name="Group 46669" transform="translate(56.739)">
+        <g id="Group_46668" data-name="Group 46668">
+          <path id="Path_134244" data-name="Path 134244" d="M61.686,0A.964.964,0,0,0,61,.282L57.021,4.266a.964.964,0,0,0-.282.682v.008h4.955V0Z" transform="translate(-56.739)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

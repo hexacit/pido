@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.572" height="15.937" viewBox="0 0 15.572 15.937">
+  <g id="Auctions" transform="translate(0.25 0.354)">
+    <path id="Path_3768" data-name="Path 3768" d="M0,88H9.222v1.317H0Z" transform="translate(0 -73.984)" fill="none" stroke="#b1b1b1" stroke-width="0.5"/>
+    <path id="Path_3769" data-name="Path 3769" d="M14.587,76.594a.659.659,0,0,0-.659-.659H8.659A.659.659,0,0,0,8,76.594v.669h6.587Z" transform="translate(-6.683 -63.906)" fill="none" stroke="#b1b1b1" stroke-width="0.5"/>
+    <path id="Path_3770" data-name="Path 3770" d="M50.551,43.363a4.6,4.6,0,0,0-.764,1.1l5.422,5.422a.659.659,0,0,0,.931,0l.932-.932a.659.659,0,0,0,0-.932L51.65,42.6A4.489,4.489,0,0,0,50.551,43.363Z" transform="translate(-42.193 -36.06)" fill="none" stroke="#b1b1b1" stroke-width="0.5"/>
+    <path id="Path_3771" data-name="Path 3771" d="M25.99,18.8a5.712,5.712,0,0,1-1.7,1.092l3.4,3.4a5.805,5.805,0,0,1,1.093-1.7,5.717,5.717,0,0,1,1.7-1.092l-3.4-3.4a5.81,5.81,0,0,1-1.093,1.7Z" transform="translate(-20.543 -14.331)" fill="none" stroke="#b1b1b1" stroke-width="0.5"/>
+    <rect id="Rectangle_259" data-name="Rectangle 259" width="2.635" height="6.587" rx="1.317" transform="translate(6.195 1.863) rotate(-45)" fill="none" stroke="#b1b1b1" stroke-width="0.5"/>
+    <rect id="Rectangle_260" data-name="Rectangle 260" width="2.635" height="6.587" rx="1.317" transform="translate(1.044 7.087) rotate(-45)" fill="none" stroke="#b1b1b1" stroke-width="0.5"/>
+  </g>
+</svg>

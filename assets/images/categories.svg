@@ -1,0 +1,11 @@
+<svg id="categories" xmlns="http://www.w3.org/2000/svg" width="31" height="31" viewBox="0 0 31 31">
+  <path id="Path_3759" data-name="Path 3759" d="M5,0H1A1,1,0,0,0,0,1V5A1,1,0,0,0,1,6H5A1,1,0,0,0,6,5V1A1,1,0,0,0,5,0Z" fill="#fff"/>
+  <path id="Path_3760" data-name="Path 3760" d="M5,9H1a1,1,0,0,0-1,1v4a1,1,0,0,0,1,1H5a1,1,0,0,0,1-1V10A1,1,0,0,0,5,9Z" transform="translate(0 3.5)" fill="#fff"/>
+  <path id="Path_3761" data-name="Path 3761" d="M5,18H1a1,1,0,0,0-1,1v4a1,1,0,0,0,1,1H5a1,1,0,0,0,1-1V19A1,1,0,0,0,5,18Z" transform="translate(0 7)" fill="#fff"/>
+  <path id="Path_3762" data-name="Path 3762" d="M14,0H10A1,1,0,0,0,9,1V5a1,1,0,0,0,1,1h4a1,1,0,0,0,1-1V1A1,1,0,0,0,14,0Z" transform="translate(3.5)" fill="#fff"/>
+  <path id="Path_3763" data-name="Path 3763" d="M14,9H10a1,1,0,0,0-1,1v4a1,1,0,0,0,1,1h4a1,1,0,0,0,1-1V10A1,1,0,0,0,14,9Z" transform="translate(3.5 3.5)" fill="#fff"/>
+  <path id="Path_3764" data-name="Path 3764" d="M14,18H10a1,1,0,0,0-1,1v4a1,1,0,0,0,1,1h4a1,1,0,0,0,1-1V19A1,1,0,0,0,14,18Z" transform="translate(3.5 7)" fill="#fff"/>
+  <path id="Path_3765" data-name="Path 3765" d="M23,0H19a1,1,0,0,0-1,1V5a1,1,0,0,0,1,1h4a1,1,0,0,0,1-1V1A1,1,0,0,0,23,0Z" transform="translate(7)" fill="#fff"/>
+  <path id="Path_3766" data-name="Path 3766" d="M23,9H19a1,1,0,0,0-1,1v4a1,1,0,0,0,1,1h4a1,1,0,0,0,1-1V10A1,1,0,0,0,23,9Z" transform="translate(7 3.5)" fill="#fff"/>
+  <path id="Path_3767" data-name="Path 3767" d="M23,18H19a1,1,0,0,0-1,1v4a1,1,0,0,0,1,1h4a1,1,0,0,0,1-1V19A1,1,0,0,0,23,18Z" transform="translate(7 7)" fill="#fff"/>
+</svg>

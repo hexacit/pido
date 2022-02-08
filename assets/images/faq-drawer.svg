@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="faq-drawer" transform="translate(0.5 0.5)">
+    <rect id="Rectangle" width="19" height="19" stroke="#000" stroke-width="1" opacity="0"/>
+    <rect id="Rectangle_17205" data-name="Rectangle 17205" width="17" height="17" rx="8.5" transform="translate(1 1)"/>
+    <g id="Group_46368" data-name="Group 46368" transform="translate(6.804 3.86)">
+      <path id="Path_134026" data-name="Path 134026" d="M25.466,37a.466.466,0,0,0-.466.466V38.4a.466.466,0,0,0,.932,0v-.932A.466.466,0,0,0,25.466,37Z" transform="translate(-22.856 -27.757)" fill="#f2e6f1" stroke="#f2e6f1" stroke-width="1"/>
+      <path id="Path_134027" data-name="Path 134027" d="M20.647,9h-.038a2.652,2.652,0,0,0-1.832.718A2.424,2.424,0,0,0,18,11.495a.327.327,0,0,0,.652,0,1.818,1.818,0,0,1,.583-1.332,1.976,1.976,0,0,1,1.4-.539,1.952,1.952,0,0,1,1.929,1.844,1.842,1.842,0,0,1-.9,1.6,2.94,2.94,0,0,0-1.386,2.53v.886a.327.327,0,0,0,.652,0V15.6a2.357,2.357,0,0,1,1.087-2.006,2.456,2.456,0,0,0,1.2-2.133A2.572,2.572,0,0,0,20.647,9Z" transform="translate(-18 -9)" fill="#f2e6f1" stroke="#f2e6f1" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

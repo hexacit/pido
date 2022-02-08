@@ -1,0 +1,11 @@
+<svg id="menu" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Rectangle_6681" data-name="Rectangle 6681" stroke="#707070" stroke-width="1" opacity="0">
+    <rect width="20" height="20" stroke="none"/>
+    <rect x="0.5" y="0.5" width="19" height="19" fill="none"/>
+  </g>
+  <g id="list" transform="translate(0 -64.267)">
+    <path id="Path_127736" data-name="Path 127736" d="M18.159,64.267H1.841a2.007,2.007,0,0,0,0,4H18.159a2.007,2.007,0,0,0,0-4Z" transform="translate(0 1)"/>
+    <path id="Path_127738" data-name="Path 127738" d="M18.159,353.467H1.841a2.007,2.007,0,0,0,0,4H18.159a2.007,2.007,0,0,0,0-4Z" transform="translate(0 -281.2)"/>
+    <path id="Path_127739" data-name="Path 127739" d="M18.159,353.467H1.841a2.007,2.007,0,0,0,0,4H18.159a2.007,2.007,0,0,0,0-4Z" transform="translate(0 -274.2)"/>
+  </g>
+</svg>
